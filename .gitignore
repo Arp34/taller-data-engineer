@@ -1,0 +1,10 @@
+output/
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
+.vscode/
+
+# Notebook personal de estudio (no forma parte del entregable)
+taller.ipynb
